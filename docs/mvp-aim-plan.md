@@ -200,6 +200,7 @@ AI nucleus is successful when:
 ---
 
 ## 7. Companion Docs (in this repo)
+- `sources.md` – curated list of public sources and references for HighLevel knowledge and best practices
 
 - `ai-nucleus-spec.md` – spec for the external AI helper  
 - `hl-setup-blueprint.md` – structure of HL  
